@@ -17,15 +17,25 @@ namespace SalesWebMvc.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+
+            // ViewData é uma dicionario no C#, uma coleção de Chave Valor
+            ViewData["Title"] = "About_Teste";
+            ViewData["Message"] = "Sale WEB MVC App from C# Course";
+            ViewData["Email"] = "viniciussalme@gmail.com";
+
+            // Quando o método se chama return "View()", esse método se chama de method builder. Ele é um método auxiliar
+            // Que vai retornar um objeto do tipo "IActionResult", no caso atual uma VIEW.
+            // O FrameWork vai na pasta VIEW, Home e procura uma página chama About.
 
             return View();
         }
 
         public IActionResult Contact()
         {
+           
             ViewData["Message"] = "Your contact page.";
 
+            
             return View();
         }
 

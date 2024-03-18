@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SalesWebMvc.Models;
+using SalesWebMvc.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -18,7 +19,7 @@ namespace SalesWebMvc.Controllers
         public IActionResult About()
         {
 
-            // ViewData é uma dicionario no C#, uma coleção de Chave Valor
+            // ViewData é uma dicionario no C#, uma coleção de Chave Valor.
             ViewData["Title"] = "About_Teste";
             ViewData["Message"] = "Sale WEB MVC App from C# Course";
             ViewData["Email"] = "viniciussalme@gmail.com";

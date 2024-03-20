@@ -1,0 +1,77 @@
+[33mcommit 9fb573f1ea2959fa32767839f521af1d35f6f786[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Wed Mar 20 10:24:21 2024 -0300
+
+    Tela simples de cadastro
+
+[33mcommit 9d17d1b6663c3c6d798f930330dd7319560198e4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Tue Mar 19 14:46:10 2024 -0300
+
+    Seller Service FindAll Sincrono
+
+[33mcommit 2dcd68f60eaf225a76e747b4305c1b72b5f6c7af[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Tue Mar 19 08:45:15 2024 -0300
+
+    Sellers Controller
+
+[33mcommit 946f762c28d17ee6204538eed766cd2f1b969241[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Tue Mar 19 08:07:39 2024 -0300
+
+    Seeding Service
+
+[33mcommit 7c818dd3f94fc5166c005ae20644ca3c670d7e42[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Mon Mar 18 21:58:57 2024 -0300
+
+    Outras entidades e segunda migration
+
+[33mcommit aca93c073b545cc12f144ef037f2fca23ca7ea32[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Mon Mar 18 20:46:24 2024 -0300
+
+    Mudando o tema do Bootstrap
+
+[33mcommit beb7261e416b47479771a269022ff253f0c54163[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Mon Mar 18 20:36:08 2024 -0300
+
+    MySQL adaptation and first migration
+
+[33mcommit 49978ac1a37e8320f685eb2b2533a3a05584adaf[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Mon Mar 18 07:51:11 2024 -0300
+
+    CRUD Scaffolding
+
+[33mcommit 13e4588d0fc7e3d0bda521948b5e646477cdf03e[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Mon Mar 18 07:31:00 2024 -0300
+
+    Deleting Department view and controller
+
+[33mcommit 7b9bbb8a0a794d6eb7bbc77e1f06331655cea3a3[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Mon Mar 18 07:27:25 2024 -0300
+
+    First Model-Controller-View - Department
+
+[33mcommit fc035560ea92802637dcd6be58ff54f30d2bff9b[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Fri Mar 15 23:37:44 2024 -0300
+
+    First controller and Razor pages tests
+
+[33mcommit e3eae670be8e65660b80490c05e82b9d9e354103[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Fri Mar 15 13:04:56 2024 -0300
+
+    .gitIgnore
+
+[33mcommit 0b72471d311e47d818c2eccc78e86154758fe566[m
+Author: Vinicius-Almeida-Dev <viniciussalne@hotmail.com>
+Date:   Fri Mar 15 13:03:48 2024 -0300
+
+    First Commit

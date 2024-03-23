@@ -45,7 +45,7 @@ namespace SalesWebMvc.Services
             catch (DbUpdateException)
             {
 
-                throw new IntegrityException("Não dá para remover esse usuário, o mesmo está associado à alguma (as) veda (as)");
+                throw new IntegrityException("Não dá para remover esse usuário, está associado à alguma (as) veda (as)");
             }
             
         }
